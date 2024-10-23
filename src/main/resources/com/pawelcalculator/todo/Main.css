@@ -1,0 +1,11 @@
+#anchorPane{
+    background-color: black!important;
+}
+body{
+    background-color: black;
+}
+button.superButton{
+    width:40px;
+    height: 40px;
+    background-color: black;
+}
